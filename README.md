@@ -1,4 +1,4 @@
-# kinobilleter
+# kinobilleter oblig 1 std: armah9337
 create and html file with js for ordering cinema
 
 it conatin two files billetter.html, script.js
