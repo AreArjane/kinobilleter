@@ -2,6 +2,8 @@
 create and html file with js for ordering cinema tickets
 
 it conatin two files billetter.html, script.js
+
+
 .
 └── kinobilletter
     └── src
